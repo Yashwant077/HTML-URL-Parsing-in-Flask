@@ -1,5 +1,6 @@
 # HTML-URL-Parsing-in-Flask
-This project demonstrates the efficient parsing of HTML content and URLs using the Flask framework in the Python programming language.     By leveraging the power of Flask, you can easily extract data from HTML sources and manipulate URLs with ease.
+This project demonstrates the efficient parsing of HTML content and URLs using the Flask framework in the Python programming language.    
+By leveraging the power of Flask, you can easily extract data from HTML sources and manipulate URLs with ease.
 
 Key Features:    
 - Seamless integration of Flask framework     
